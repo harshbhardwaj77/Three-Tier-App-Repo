@@ -3,6 +3,10 @@
 ## Overview
 This project involves the deployment of a three-tier web application using **ReactJS** for the frontend, **NodeJS** for the backend, and **MongoDB** as the database. The deployment was carried out on **Amazon Web Services (AWS) Elastic Kubernetes Service (EKS)**.
 
+## Architecture
+
+![Architecture Diagram](assets/Three-Tier.gif)  
+
 ## 🔍 Situation
 The goal of this project was to deploy a Three-Tier Web Application utilizing:
 - **ReactJS** for the frontend
